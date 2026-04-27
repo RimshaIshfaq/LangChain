@@ -1,0 +1,17 @@
+
+
+Cursor, an AI code-generation startup co-founded by Pakistani-born Sualeh Asif, 
+has secured a $60 billion acquisition deal with Elon Musk’s SpaceX, according to 
+multiple reports on Thursday.
+
+Along with OpenAI and Anthropic, Cursor is one of several Silicon Valley startups 
+that have drawn waves of developers by using ​artificial intelligence to automate coding, 
+a business where AI companies ​have found early commercial traction, according to Reuters.
+
+SpaceX announced in a post on X that Cursor gave SpaceX the right to acquire the company 
+later this year for $60 billion. If SpaceX doesn’t buy Cursor, it will pay $10 billion for 
+their work together, the company said.
+
+“The combination of Cursor’s leading product and distribution to expert software engineers 
+with SpaceX’s million H100 equivalent Colossus training supercomputer will allow us to build 
+the world’s most useful models,” it added.
